@@ -1,3 +1,3 @@
-- 👋 Hi, I’m **xostavinn**
+- 👋 Hi, I’m **Gustavo Inácio**
 - 👀 aluno do 1A
 - 🌱 estou aprendendo a programar
